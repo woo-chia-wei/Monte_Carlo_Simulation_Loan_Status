@@ -1,5 +1,12 @@
 # Monte_Carlo_Simulation_Loan_Status
 
+# Added Content
+
+Python version of Monte Carlo Simulation to estimate the fraction of default loans (95% confidence). There will also be bonus geometrical probability section demonstrating using monte carlo integral to estimate the probability. Please refer to "simulation_in_python.ipynb"
+
+
+# From Original Repository
+
 Author: Benjamin O. Tayo
 
 Date: 11/22/2018
